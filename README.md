@@ -19,4 +19,4 @@ The project is broken down in subtasks as follows:
     Step 7 (again): Use the model for the web
     Step 8: Deploying our web app
 
-The project is implemented as a Jupyter notebook and can be found there: [Project notebook](SageMaker\ Project.ipynb)
+The project is implemented as a Jupyter notebook and can be found there: [Project notebook](https://github.com/AndiA76/sagemaker-deployment_sentiment-analysis-web-app/blob/master/SageMaker%20Project.ipynb)
